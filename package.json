@@ -1,0 +1,12 @@
+{
+  "name": "sdetpro-k15-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  }
+}
